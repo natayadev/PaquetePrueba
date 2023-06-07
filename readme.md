@@ -8,4 +8,3 @@ Código fuente para publicar en PYPI el ejemplo de un paquete para la clases de 
 
 ```
 pip3 install paquete_de_prueba
-```
